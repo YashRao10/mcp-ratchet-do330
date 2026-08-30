@@ -32,9 +32,16 @@ anything in the AI toolchain under DO-330.
 | 2 | MR-TQ-002 | Tool Operational Requirements | done |
 | 3 | MR-TQ-003 | Tool Qualification Plan | done |
 | 4 | MR-TQ-004 | Tool Verification Cases & Results | done |
-| 5 | MR-TQ-005 | Tool Accomplishment Summary & Verdict | planned |
+| 5 | MR-TQ-005 | Tool Accomplishment Summary & Verdict | done |
 
 Editable sources live in `docs-source/*.html`; rendered PDFs in `docs/`.
+
+**Status:** the five-document set is complete. Verdict (MR-TQ-005 §4): the
+drift-detection function at mcp-ratchet commit `907c8a9` meets TOR-1..11 and is
+a defensible **candidate for TQL-5 under Criteria 3**, conditional on independent
+verification of the MR-TQ-004 results (the one item the study leaves open). The
+three source defects it turned up were fixed on mcp-ratchet before verification
+(commits `78d5971`, `a054e4a`, `907c8a9`).
 
 ## Scope discipline
 
