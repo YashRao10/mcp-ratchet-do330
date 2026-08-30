@@ -30,7 +30,7 @@ anything in the AI toolchain under DO-330.
 |---|--------|-------|--------|
 | 1 | MR-TQ-001 | Tool Qualification Context & TQL Determination | done |
 | 2 | MR-TQ-002 | Tool Operational Requirements | done |
-| 3 | MR-TQ-003 | Tool Qualification Plan | planned |
+| 3 | MR-TQ-003 | Tool Qualification Plan | done |
 | 4 | MR-TQ-004 | Tool Verification Cases & Results | planned |
 | 5 | MR-TQ-005 | Tool Accomplishment Summary & Verdict | planned |
 
