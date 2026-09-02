@@ -50,6 +50,3 @@ assert specific per-TQL objective counts from its tables. TQL-determination
 criteria are cited from named secondary sources. Where the standard's exact
 content is needed and not independently confirmable, the study says so rather
 than guessing — the same discipline used in the sibling `AAS-TQ-002` study.
-
-Related from-scratch DO-178C demo projects: `AAS-DO178-Demo`,
-`LGWH-DO178-Demo`, `LFW-DO178-Demo`.
