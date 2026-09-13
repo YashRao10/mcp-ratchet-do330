@@ -52,6 +52,20 @@ This study is also vendored into the tool's own repository at
 so it stays next to the code it qualifies; this repo is the standalone,
 citable copy.
 
+## Related material
+
+[`EASA-ISSUE-03-CROSSREF.md`](EASA-ISSUE-03-CROSSREF.md) — a working memo
+(2026-09-12, not part of the five-document set) checking this study's premise
+against EASA's Proposed Issue 03 AI Concept Paper (published 2026-06-03,
+still in public comment). Kept deliberately separate from MR-TQ-001..005:
+MR-TQ-005 states outright that it "introduces no new analysis," and this
+memo is new analysis against a source none of the five documents cite. Short
+version: Issue 03 anticipates reusing ED-215/DO-330 for AI-based tools used
+by approved organisations, which is close to this study's exact premise —
+but a hazard classification for the credited AI assistant, in EASA's own
+risk-based framework, has not been argued here, so treat this as
+"compatible in principle," not as an extension of the verdict.
+
 ## Scope discipline
 
 This study does not reproduce the paywalled RTCA DO-330 text, and does not
